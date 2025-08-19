@@ -103,6 +103,3 @@ pip install networkx matplotlib
 ---
 
 
-
-Você quer que eu também monte o **`requirements.txt`** correspondente para o repositório (`networkx` e `matplotlib` com versões sugeridas)?
-```
